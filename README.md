@@ -43,18 +43,22 @@ Student Instructions
 
 For students familiar with Git, you may simply clone this repository
 to obtain all the materials (IPython notebooks and data) for the
-tutorial. Alternatively, you may [](download a zip file) containing
-the materials. A third option is to simply view static notebooks by
-clicking on the titles of each section below.
+tutorial. Alternatively, you may [download a zip
+file](https://github.com/twiecki/financial-analysis-pyton-tutorial/archive/master.zip)
+containing the materials. A third option is to simply view static
+notebooks by clicking on the titles of each section below.
 
 Outline
 -------
 
-[http://nbviewer.ipython.org/urls/raw.github.com/twiecki/financial-analysis-pyton-tutorial/master/1.%2520Pandas%2520Basics.ipynb](1. Pandas basics)
+[1. Pandas
+basics](http://nbviewer.ipython.org/urls/raw.github.com/twiecki/financial-analysis-pyton-tutorial/master/1.%2520Pandas%2520Basics.ipynb)
 
-[http://nbviewer.ipython.org/urls/raw.github.com/twiecki/financial-analysis-pyton-tutorial/master/2.%2520Pandas%2520replication%2520of%2520Google%2520Trends%2520paper.ipynb](2. Pandas replication of Google Trends paper)
+[2. Pandas replication of Google Trends
+paper](http://nbviewer.ipython.org/urls/raw.github.com/twiecki/financial-analysis-pyton-tutorial/master/2.%2520Pandas%2520replication%2520of%2520Google%2520Trends%2520paper.ipynb)
 
-[https://raw.github.com/twiecki/financial-analysis-pyton-tutorial/master/3.%20Backtesting%20using%20Zipline.ipynb](3. Backtesting using Zipline)
+[3. Backtesting using
+Zipline](https://raw.github.com/twiecki/financial-analysis-pyton-tutorial/master/3.%20Backtesting%20using%20Zipline.ipynb)
 
 Required Packages
 -----------------
@@ -70,4 +74,4 @@ easiest way to obtain all the packages is to install the Scipy
 Superpack which works with Python 2.7.2 that ships with OS X.
 
 Otherwise, another easy way to install all the necessary packages is
-to use Continuum Analytics' [http://docs.continuum.io/anaconda/install.html](Anaconda).
+to use Continuum Analytics' [Anaconda](http://docs.continuum.io/anaconda/install.html).
