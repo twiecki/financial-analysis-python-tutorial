@@ -50,6 +50,12 @@ clicking on the titles of each section below.
 Outline
 -------
 
+[http://nbviewer.ipython.org/urls/raw.github.com/twiecki/financial-analysis-pyton-tutorial/master/1.%2520Pandas%2520Basics.ipynb](1. Pandas basics)
+
+[http://nbviewer.ipython.org/urls/raw.github.com/twiecki/financial-analysis-pyton-tutorial/master/2.%2520Pandas%2520replication%2520of%2520Google%2520Trends%2520paper.ipynb](2. Pandas replication of Google Trends paper)
+
+[https://raw.github.com/twiecki/financial-analysis-pyton-tutorial/master/3.%20Backtesting%20using%20Zipline.ipynb](3. Backtesting using Zipline)
+
 Required Packages
 -----------------
 
