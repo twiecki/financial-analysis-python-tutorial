@@ -53,12 +53,28 @@ Outline
 
 [1. Pandas
 basics](http://nbviewer.ipython.org/urls/raw.github.com/twiecki/financial-analysis-pyton-tutorial/master/1.%2520Pandas%2520Basics.ipynb)
+* Creating/Loading time-series data
+* Series and DataFrame: First steps
+* Data alignment
+* Plotting basics
+* Common financial analyses (returns, correlations, ...)
 
 [2. Pandas replication of Google Trends
 paper](http://nbviewer.ipython.org/urls/raw.github.com/twiecki/financial-analysis-pyton-tutorial/master/2.%2520Pandas%2520replication%2520of%2520Google%2520Trends%2520paper.ipynb)
+* Replication of recent paper: [Quantifying Trading Behavior in Financial Markets Using Google Trends](http://www.nature.com/srep/2013/130425/srep01684/pdf/srep01684.pdf)
+* Uses Google search trends to predict market movements
 
 [3. Backtesting using
 Zipline](https://raw.github.com/twiecki/financial-analysis-pyton-tutorial/master/3.%20Backtesting%20using%20Zipline.ipynb)
+* What gets modeled? Why?
+* Stream-based computing
+* My first algorithm
+* Example momentum trade algorithm
+* Example mean-reversion algorithm
+
+[4. Quantopian: Community, Data, Infrastructure, Live Trading](https://www.quantopian.com)
+* Quick intro
+* Example algorithm
 
 Required Packages
 -----------------
@@ -67,11 +83,12 @@ Required Packages
 * pandas >= 0.11.1
 * NumPy >= 1.6.1
 * Matplotlib >= 1.0.0
-* Zipline > TODO
+* Zipline >= TODO
 
-For students running the latest version of Mac OS X (10.8), the
-easiest way to obtain all the packages is to install the Scipy
-Superpack which works with Python 2.7.2 that ships with OS X.
-
-Otherwise, another easy way to install all the necessary packages is
+The easiest way to install all the necessary packages is
 to use Continuum Analytics' [Anaconda](http://docs.continuum.io/anaconda/install.html).
+
+Zipline can be installed via pip:
+```
+pip install zipline
+```
