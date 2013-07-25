@@ -42,6 +42,7 @@ What you will learn
 -------------------
 
 * Timeseries analysis using Pandas
+* Using Google Trends to predict market movements
 * Build your own trading strategies using Zipline
 * Common trading strategies:
    * Momentum trading
