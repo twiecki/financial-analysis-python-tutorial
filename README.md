@@ -6,8 +6,8 @@ http://pydata.org/bos2013/schedule/
 
 *Thomas Wiecki, Quantopian Inc. and Brown University*
 
-Thomas Wiecki is a [Quantitative
-Researcher](https://www.quantopian.com) at Quantopian Inc -- a Boston
+Thomas Wiecki is a Quantitative
+Researcher at [Quantopian Inc](https://www.quantopian.com) -- a Boston
 based startup providing you with the first browser based algorithmic
 trading platform -- and a PhD student at Brown University where he
 studies Computational Cognitive Neuroscience. He specializes in
