@@ -79,7 +79,7 @@ paper](http://nbviewer.ipython.org/urls/raw.github.com/twiecki/financial-analysi
 * Uses Google search trends to predict market movements
 
 [3. Backtesting using
-Zipline](https://raw.github.com/twiecki/financial-analysis-pyton-tutorial/master/3.%20Backtesting%20using%20Zipline.ipynb) ([abridged](http://nbviewer.ipython.org/urls/raw.github.com/twiecki/financial-analysis-python-tutorial/master/3.%2520Backtesting%2520using%2520Zipline%2520%2528abridged%2529.ipynb))
+Zipline](http://nbviewer.ipython.org/urls/raw.github.com/twiecki/financial-analysis-python-tutorial/master/3.%2520Backtesting%2520using%2520Zipline.ipynb)
 * What gets modeled? Why?
 * Stream-based computing
 * My first algorithm
