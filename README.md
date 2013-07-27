@@ -55,18 +55,25 @@ Student Instructions
 For students familiar with Git, you may simply clone this repository
 to obtain all the materials (IPython notebooks and data) for the
 tutorial. Alternatively, you may [download a zip
-file](https://github.com/twiecki/financial-analysis-pyton-tutorial/archive/master.zip)
+file](https://github.com/twiecki/financial-analysis-python-tutorial/archive/master.zip)
 containing the materials. A third option is to simply view static
 notebooks by clicking on the titles of each section below.
 
 I strongly encourage you to set up the environment on your own
 computer so that you can follow along during the tutorial.
 
+After you have the materials, from a command shell cd into the financial-analysis-in-python-tutorial directory and execute:
+```
+ipython notebook --pylab=inline
+```
+
+This should open a new browser window from where you can access the notebooks.
+
 Outline
 -------
 
 [1. Pandas
-basics](http://nbviewer.ipython.org/urls/raw.github.com/twiecki/financial-analysis-pyton-tutorial/master/1.%2520Pandas%2520Basics.ipynb)
+basics](http://nbviewer.ipython.org/urls/raw.github.com/twiecki/financial-analysis-python-tutorial/master/1.%2520Pandas%2520Basics.ipynb)
 * Creating/Loading time-series data
 * Series and DataFrame: First steps
 * Data alignment
@@ -74,7 +81,7 @@ basics](http://nbviewer.ipython.org/urls/raw.github.com/twiecki/financial-analys
 * Common financial analyses (returns, correlations, ...)
 
 [2. Pandas replication of Google Trends
-paper](http://nbviewer.ipython.org/urls/raw.github.com/twiecki/financial-analysis-pyton-tutorial/master/2.%2520Pandas%2520replication%2520of%2520Google%2520Trends%2520paper.ipynb)
+paper](http://nbviewer.ipython.org/urls/raw.github.com/twiecki/financial-analysis-python-tutorial/master/2.%2520Pandas%2520replication%2520of%2520Google%2520Trends%2520paper.ipynb)
 * Replication of recent paper: [Quantifying Trading Behavior in Financial Markets Using Google Trends](http://www.nature.com/srep/2013/130425/srep01684/pdf/srep01684.pdf)
 * Uses Google search trends to predict market movements
 
