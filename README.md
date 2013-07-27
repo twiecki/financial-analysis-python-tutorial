@@ -96,9 +96,9 @@ Required Packages
 * Python 2.7 (*Python 3 is not supported at this point!*)
 * pandas >= 0.11.1
 * NumPy >= 1.6.1
-* SciPy >=
+* SciPy >= 0.7.0
 * Matplotlib >= 1.0.0
-* Zipline >= TODO
+* Zipline == 0.5.9
 
 The easiest way to install all the necessary packages (except Zipline) is
 to use Continuum Analytics' [Anaconda](http://docs.continuum.io/anaconda/install.html).
