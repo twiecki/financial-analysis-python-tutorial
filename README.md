@@ -4,6 +4,8 @@ Financial Analysis in Python
 Tutorial at PyData Boston 2013 July 27, 2013 at 4:30 pm.
 http://pydata.org/bos2013/schedule/
 
+You can view the video of the talk [here](https://vimeo.com/73875233).
+
 *Thomas Wiecki, Quantopian Inc. and Brown University*
 
 Thomas Wiecki is a Quantitative
@@ -72,6 +74,8 @@ This should open a new browser window from where you can access the notebooks.
 Outline
 -------
 
+You can view the video of the talk [here](https://vimeo.com/73875233).
+
 [1. Pandas
 basics](http://nbviewer.ipython.org/urls/raw.github.com/twiecki/financial-analysis-python-tutorial/master/1.%2520Pandas%2520Basics.ipynb)
 * Creating/Loading time-series data
@@ -105,7 +109,7 @@ Required Packages
 * NumPy >= 1.6.1
 * SciPy >= 0.7.0
 * Matplotlib >= 1.0.0
-* Zipline == 0.5.9
+* Zipline == 0.5.10
 
 The easiest way to install all the necessary packages (except Zipline) is
 to use Continuum Analytics' [Anaconda](http://docs.continuum.io/anaconda/install.html).
